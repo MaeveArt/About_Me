@@ -30,13 +30,17 @@ body{
     font-size: 20px;
 }
 
-.p{
-    text-align: center;
-    font-style: italic;
+.areaTwo p1{
+    margin: 40px;
     color: #fff;
     font-size: 20px;
 }
 
+.p2{
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
 
 .area{
     background: #4e54c8;  
@@ -48,8 +52,7 @@ body{
 }
 
 .areaTwo{
-    background: #4e54c8;  
-    text-align: center;
+    background: #4e54c8; 
     color: #fff;
     width: 50%;
     width: 100%;
