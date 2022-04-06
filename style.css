@@ -30,33 +30,45 @@ body{
     font-size: 20px;
 }
 
-.areaTwo p1{
-    margin: 40px;
+.p{
+    text-align: center;
+    font-style: italic;
     color: #fff;
     font-size: 20px;
 }
 
-.p2{
-    text-align: center;
-    color: #fff;
-    font-size: 20px;
-}
 
 .area{
     background: #77bbd4;  
     background: -webkit-linear-gradient(to left, #8f94fb, #4e54c8);  
     width: 100%;
-    height:50vh;
+    height:30vh;
     
    
 }
 
 .areaTwo{
-    background: #77bbd4; 
+    background: #77bbd4;  
+    position: center;
     color: #fff;
     width: 50%;
     width: 100%;
-    height:100vh;
+    height:150vh;
+}
+
+.areaTwo p {
+   margin-left: 10%;
+}
+
+.areaTwo p1 {
+   margin-left: 20%;
+}
+.areaTwo p3 {
+    text-align: center;
+    margin-left: 5%;
+    font-style: italic;
+    color: #fff;
+    font-size: 20px;
 }
 
 .areaThree{
@@ -72,7 +84,7 @@ body{
     top: 0;
     left: 0;
     width: 100%;
-    height: 400%;
+    height: 700%;
     overflow: hidden;
 }
 
@@ -84,7 +96,7 @@ body{
     height: 20px;
     background: rgba(255, 255, 255, 0.2);
     animation: animate 25s linear infinite;
-    bottom: -950px;
+    bottom: -850px;
     
 }
 
